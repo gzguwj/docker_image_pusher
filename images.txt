@@ -14,4 +14,4 @@
 #pinpointdocker/pinpoint-flink:2.5.4
 #becivells/soar-web:latest
 #zookeeper:3.7
-harisekhon/hbase:2.6
+harisekhon/hbase
