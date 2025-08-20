@@ -4,14 +4,15 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#pinpointdocker/pinpoint-hbase:2.5.4
-#pinpointdocker/pinpoint-mysql:2.5.4
-#pinpointdocker/pinpoint-web:2.5.4
-#pinpointdocker/pinpoint-collector:2.5.4
-#pinpointdocker/pinpoint-quickstart
-#pinpointdocker/pinpoint-batch:2.5.4
+pinpointdocker/pinpoint-hbase:3.0.3
+pinpointdocker/pinpoint-mysql:3.0.3
+pinpointdocker/pinpoint-web:3.0.3
+pinpointdocker/pinpoint-collector:3.0.3
+pinpointdocker/pinpoint-quickstart
+pinpointdocker/pinpoint-batch:3.0.3
+pinpointdocker/pinpoint-agent:3.0.3
 #zookeeper:3.4.13
-#pinpointdocker/pinpoint-flink:2.5.4
+pinpointdocker/pinpoint-flink:3.0.3
 #becivells/soar-web:latest
 #zookeeper:3.7
-hbase:2.6.0
+#hbase:2.6.0
