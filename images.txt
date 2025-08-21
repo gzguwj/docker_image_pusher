@@ -13,9 +13,9 @@
 #pinpointdocker/pinpoint-agent:3.0.3
 #zookeeper:3.4.13
 #pinpointdocker/pinpoint-flink:3.0.3
-#pinpointdocker/pinpoint-web:3.0.3-metric
-#pinpointdocker/pinpoint-collector:3.0.3-metric
+pinpointdocker/pinpoint-web:3.0.3-metric
+pinpointdocker/pinpoint-collector:3.0.3-metric
 #becivells/soar-web:latest
 #zookeeper:3.7
 #hbase:2.6.0
-zookeeper:3.8.0-openjdk
+#zookeeper:3.8.0-openjdk
