@@ -13,9 +13,13 @@
 #pinpointdocker/pinpoint-agent:3.0.3
 #zookeeper:3.4.13
 #pinpointdocker/pinpoint-flink:3.0.3
-pinpointdocker/pinpoint-web:2.5.4-metric
-pinpointdocker/pinpoint-collector:2.5.4-metric
+#pinpointdocker/pinpoint-web:2.5.4-metric
+#pinpointdocker/pinpoint-collector:2.5.4-metric
 #becivells/soar-web:latest
 #zookeeper:3.7
 #hbase:2.6.0
 #zookeeper:3.8.0-openjdk
+ubuntu/kafka:3.1-22.04_beta
+apachepinot/pinot:latest
+zookeeper:3.8.0-temurin
+telegraf:1.25.0
